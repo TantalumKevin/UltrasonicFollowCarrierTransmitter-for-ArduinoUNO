@@ -1,8 +1,8 @@
 void setup() 
 {
-    //Serial.begin(115200);
-    pinMode(3,OUTPUT);
-    //tone(3,40000);
+  //Serial.begin(115200);
+  pinMode(3,OUTPUT);
+  //tone(3,40000);
 }
 
 void loop() 
